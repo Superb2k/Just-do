@@ -8,4 +8,3 @@ I don't know what to say ,whatever.
 ## How to use git:
 Base command
 1. git status
-1. git log
