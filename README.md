@@ -9,10 +9,10 @@ I don't know what to say ,whatever.
 Base command
 1. git status
 
-** 这是加粗的字体：Hello **
-* 用**来标注斜体 *
-~~ 什么是删除线 ~~
-\ int a;
+**这是加粗的字体：Hello **
+*用**来标注斜体 *
+~~什么是删除线 ~~
+\int a;
 > 区块引用
 >> 嵌套引用
 ![GitHub set up](Http://zh.mweb.im/asset/img/set-up-git.gif)
