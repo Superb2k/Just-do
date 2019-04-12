@@ -1,10 +1,10 @@
 # Just-do!!!
 I don't know what to say ,whatever.
-##Practice what I have learnt
-###1.How to use git;
-###2.How to make Markdown work;
-###3.Practice and practice!
+## Practice what I have learnt
+### 1.How to use git;
+### 2.How to make Markdown work;
+### 3.Practice and practice!
 ---
-##How to use git:
+## How to use git:
 Base command
-1.git status
+1. git status
